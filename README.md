@@ -1,4 +1,4 @@
-# paycdefi
+# autostaking
 PAYC Finance = Pandas Yacht Club Finance (PAYC) 
 
 Website: https://payc.finance
